@@ -1,0 +1,1 @@
+    10.     Kirchhoff’ Voltage Law :   •   It states that “the algebraic sum of all the voltages in closed circuit is zero”.   Σ  V = 0   •   While applying the K V L ,   the  voltage drop  is taken as  negative   and the  voltage raise is  taken as  positive .     

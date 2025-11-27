@@ -1,0 +1,477 @@
+/**
+ * Visualizer AI - App Logic
+ * Powered by Google Gemini 2.5 Pro
+ */
+
+const App = {
+    apiKey: "AIzaSyCoHzRWF7NwI-itHiXAMhUJ0D06eaHKCuQ",
+    lessons: {},
+    currentLesson: null,
+    currentStep: 0,
+    isWaiting: false,
+    isGenerating: false,
+
+    ui: {
+        chapterList: document.getElementById('chapter-list'),
+        stage: document.getElementById('visual-stage'),
+        topicTitle: document.getElementById('current-topic'),
+        chatFeed: document.getElementById('chat-feed'),
+        input: document.getElementById('user-input'),
+        sendBtn: document.getElementById('send-btn'),
+        progressBar: document.getElementById('lesson-progress')
+    },
+
+    init: async () => {
+        if (window.LESSON_DATA) {
+            App.lessons = window.LESSON_DATA;
+        }
+        App.renderCurriculum();
+
+        App.ui.sendBtn.addEventListener('click', App.handleInput);
+        App.ui.input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') App.handleInput();
+        });
+
+        console.log("Visualizer AI Initialized");
+    },
+
+    renderCurriculum: () => {
+        const chapters = window.CURRICULUM_LIST || [];
+        App.ui.chapterList.innerHTML = '';
+        chapters.forEach(chap => {
+            const el = document.createElement('div');
+            el.className = 'chapter-item';
+            el.textContent = chap.title;
+            el.onclick = () => App.startLesson(chap.id, chap.title, el);
+            App.ui.chapterList.appendChild(el);
+        });
+    },
+
+    startLesson: async (id, title, element) => {
+        document.querySelectorAll('.chapter-item').forEach(e => e.classList.remove('active'));
+        element.classList.add('active');
+
+        App.ui.topicTitle.textContent = title;
+        App.ui.chatFeed.innerHTML = '';
+        App.updateProgress(0);
+
+        // Show skill level selection
+        App.ui.stage.innerHTML = `
+            <div class="empty-state">
+                <h1>Choose Your Level</h1>
+                <p>Select your current understanding of <strong>${title}</strong></p>
+                <div class="skill-levels" style="display: flex; flex-direction: column; gap: 15px; margin-top: 30px; max-width: 600px;">
+                    <button class="skill-btn" data-level="baby">
+                        <strong>🍼 Baby</strong>
+                        <span>I don't have the basic knowledge required for this topic</span>
+                    </button>
+                    <button class="skill-btn" data-level="starting">
+                        <strong>🌱 Starting Out</strong>
+                        <span>I have the basics clear, now starting this new topic</span>
+                    </button>
+                    <button class="skill-btn" data-level="intermediate">
+                        <strong>📚 Intermediate</strong>
+                        <span>I've studied before but forgotten, can solve some questions</span>
+                    </button>
+                    <button class="skill-btn" data-level="master">
+                        <strong>🏆 Master</strong>
+                        <span>I can solve questions, here for quick revision</span>
+                    </button>
+                </div>
+            </div>`;
+
+        App.addMessage('ai', `Let's start learning **${title}**! First, tell me your current level so I can tailor the lesson for you.`);
+
+        // Add click handlers
+        document.querySelectorAll('.skill-btn').forEach(btn => {
+            btn.onclick = async () => {
+                const level = btn.dataset.level;
+
+                const levelNames = {
+                    baby: "Baby 🍼",
+                    starting: "Starting Out 🌱",
+                    intermediate: "Intermediate 📚",
+                    master: "Master 🏆"
+                };
+
+                App.addMessage('user', levelNames[level]);
+                App.ui.stage.innerHTML = `<div class="empty-state"><h1>Generating Lesson...</h1><p>Crafting a personalized journey for ${levelNames[level]} level...</p></div>`;
+
+                const generatedLesson = await App.generateLessonPlan(title, level);
+                if (generatedLesson) {
+                    App.lessons[id] = generatedLesson;
+                    App.currentLesson = generatedLesson;
+                    App.currentLesson.skillLevel = level;
+                    App.currentStep = 0;
+                    App.processStep();
+                } else {
+                    App.addMessage('ai', "Sorry, I couldn't generate the lesson right now. Please try again.");
+                }
+            };
+        });
+    },
+
+    processStep: () => {
+        if (!App.currentLesson) return;
+
+        const step = App.currentLesson.steps[App.currentStep];
+        const total = App.currentLesson.steps.length;
+        App.updateProgress(((App.currentStep + 1) / total) * 100);
+
+        if (!step) {
+            // Check if background generation is still in progress
+            if (App.isGenerating) {
+                App.ui.stage.innerHTML = `
+        const skillLevel = App.currentLesson.skillLevel || 'intermediate';
+        const prompt = `
+            Student skill level: "${skillLevel}"
+            They finished "${currentTopic}" and chose: "${mode}".
+                    Generate 5 - 8 NEW steps.
+            
+            Skill level guidelines:
+                - baby: Start from prerequisites, explain every concept
+                    - starting: Assume basics, focus on building understanding
+                        - intermediate: Review + practice problems
+                            - master: Quick revision + challenging problems
+            
+            If mode is 'quiz': Generate questions appropriate for their level.
+            If mode is 'deeper': Explain advanced concepts.
+            If mode is 'practice': Give problems matching their skill.
+
+            Return ONLY valid JSON:
+                {
+                    "steps": [
+                        {
+                            "type": "question|explain",
+                            "text": "Text...",
+                            "visual_html": "HTML (NO IMG TAGS! Use CSS/SVG only).",
+                            "options": ["Option A", "Option B"],
+                            "expected_answer": ["Option A"]
+                        }
+                    ]
+                }
+
+                CRITICAL: No + operators, single - line strings only
+                    `;
+
+        const data = await App.callGeminiJSON(prompt);
+        if (data && data.steps) {
+            App.currentLesson.steps = App.currentLesson.steps.concat(data.steps);
+            App.processStep();
+        } else {
+            App.addMessage('ai', "I couldn't generate more content right now. Try asking a specific question!");
+        }
+    },
+
+    handleInput: async () => {
+        const text = App.ui.input.value.trim();
+        if (!text) return;
+
+        App.addMessage('user', text);
+        App.ui.input.value = '';
+
+        if (App.isWaiting && App.currentLesson) {
+            const step = App.currentLesson.steps[App.currentStep];
+            if (step) {
+                const lower = text.toLowerCase();
+                let advance = false;
+                let isCorrect = false;
+
+                if (step.expected_answer && step.expected_answer.some(a => lower.includes(a.toLowerCase()))) {
+                    advance = true;
+                    isCorrect = true;
+                } else if (step.options && step.options.some(o => lower.includes(o.toLowerCase()))) {
+                    advance = true;
+                    if (step.expected_answer) {
+                        isCorrect = step.expected_answer.some(a => lower.includes(a.toLowerCase()));
+                    }
+                }
+
+                if (advance) {
+                    App.flashFeedback(isCorrect);
+
+                    if (isCorrect && step.success_msg) {
+                        App.addMessage('ai', step.success_msg);
+                    } else if (!isCorrect && step.fail_msg) {
+                        App.addMessage('ai', step.fail_msg);
+                    }
+
+                    if (isCorrect) {
+                        App.currentStep++;
+                        App.processStep();
+                    }
+                    return;
+                } else if (step.fail_msg) {
+                    App.flashFeedback(false);
+                    App.addMessage('ai', step.fail_msg);
+                    return;
+                }
+            }
+        }
+
+        App.isWaiting = false;
+        const loadingMsg = App.addMessage('ai', 'Thinking & Visualizing...');
+
+        const newStep = await App.generateDynamicStep(text, App.currentLesson ? App.currentLesson.topic : "Math");
+
+        loadingMsg.remove();
+
+        if (newStep) {
+            if (!App.currentLesson) {
+                App.currentLesson = { topic: "Dynamic Discussion", steps: [] };
+                App.currentStep = -1;
+            }
+            App.currentLesson.steps.splice(App.currentStep + 1, 0, newStep);
+            App.currentStep++;
+            App.processStep();
+        } else {
+            App.addMessage('ai', "I couldn't visualize that, but here is an answer: " + text);
+        }
+
+        App.isWaiting = true;
+    },
+
+    flashFeedback: (isCorrect) => {
+        const overlay = document.createElement('div');
+        overlay.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: ${ isCorrect ? 'rgba(34, 197, 94, 0.2)' : 'rgba(239, 68, 68, 0.2)' };
+                z - index: 9999;
+                pointer - events: none;
+                animation: flashFade 500ms ease - out;
+                `;
+        document.body.appendChild(overlay);
+        setTimeout(() => overlay.remove(), 500);
+    },
+
+    generateLessonPlan: async (topic, skillLevel) => {
+        const levelInstructions = {
+            baby: "Start from absolute basics. Explain prerequisites first. Use very simple language. Include foundational concepts before the main topic.",
+            starting: "Assume basic math knowledge. Build understanding step-by-step. Use clear explanations with examples.",
+            intermediate: "Quick review of basics, then focus on practice. Include problem-solving strategies.",
+            master: "Concise explanations. Focus on key formulas and quick practice. Include challenging problems."
+        };
+
+        // STEP 1: Generate first 30% quickly (5-15 steps depending on level)
+        const initialCounts = { baby: 15, starting: 10, intermediate: 8, master: 5 };
+        const initialCount = initialCounts[skillLevel];
+
+        const quickPrompt = `
+            Create the first ${ initialCount } steps for: "${topic}"
+            Student level: "${skillLevel}"
+            ${ levelInstructions[skillLevel] }
+            
+            Return ONLY valid JSON:
+                {
+                    "topic": "${topic}",
+                        "steps": [
+                            {
+                                "type": "intro|explain|question",
+                                "text": "Content...",
+                                "visual_html": "HTML visual",
+                                "options": ["A", "B"](for questions),
+                            "expected_answer": ["A"](for questions)
+                    }
+                ]
+            }
+
+Math: Use $...$ inline, $$...$$ display.NO "latex" word
+CRITICAL: No + operators, single - line strings
+    `;
+
+        const quickLesson = await App.callGeminiJSON(quickPrompt);
+
+        if (!quickLesson) return null;
+
+        // Mark as generating
+        App.isGenerating = true;
+        App.showBackgroundLoading();
+
+        // STEP 2: Generate remaining 70% in background
+        const totalCounts = { baby: 50, starting: 35, intermediate: 25, master: 15 };
+        const remainingCount = totalCounts[skillLevel] - initialCount;
+
+        const fullPrompt = `
+            Continue the lesson for: "${topic}"
+            Student level: "${skillLevel}"
+            ${ levelInstructions[skillLevel] }
+            
+            Generate ${ remainingCount } MORE steps(you already have ${ initialCount } intro steps).
+            Include detailed explanations, examples, practice questions, and interactive elements.
+            
+            Return ONLY valid JSON:
+{
+    "steps": [
+        {
+            "type": "explain|question",
+            "text": "Content...",
+            "visual_html": "HTML visual",
+            "options": ["A", "B"](for questions),
+        "expected_answer": ["A"](for questions),
+            "success_msg": "Correct! explanation...",
+                "fail_msg": "Not quite. explanation..."
+}
+                ]
+            }
+
+Math: Use $...$ inline, $$...$$ display.NO "latex" word
+CRITICAL: No + operators, single - line strings
+        `;
+
+        // Generate remaining steps in background
+        App.callGeminiJSON(fullPrompt).then(moreSteps => {
+            if (moreSteps && moreSteps.steps && App.currentLesson) {
+                App.currentLesson.steps = App.currentLesson.steps.concat(moreSteps.steps);
+                App.isGenerating = false;
+                App.hideBackgroundLoading();
+                console.log(`✅ Background generation complete! Total steps: ${ App.currentLesson.steps.length } `);
+            }
+        });
+
+        return quickLesson;
+    },
+
+    generateDynamicStep: async (userQuestion, currentTopic) => {
+        const prompt = `
+            User asked: "${userQuestion}" about "${currentTopic}".
+            Generate ONE step to answer visually.
+            
+            Return ONLY valid JSON:
+{
+    "type": "explain",
+        "text": "Direct answer",
+            "visual_html": "HTML visualization (NO IMG! CSS/SVG only)",
+                "options": ["Got it", "Explain more"]
+}
+
+Math: $...$ inline, $$...$$ display.NO "latex"
+CRITICAL: No + operators
+    `;
+        return await App.callGeminiJSON(prompt);
+    },
+
+    callGeminiJSON: async (prompt) => {
+        console.log("🚀 Calling Gemini JSON API...");
+        try {
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent?key=${App.apiKey}`;
+const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+});
+
+console.log(`📡 API Status: ${res.status}`);
+const data = await res.json();
+
+if (data.error) {
+    console.error("❌ Gemini API Error:", data.error);
+    return null;
+}
+
+if (!data.candidates || data.candidates.length === 0) {
+    console.error("❌ No candidates returned.");
+    return null;
+}
+
+let text = data.candidates[0].content.parts[0].text;
+text = text.replace(/```json/g, '').replace(/```/g, '').trim();
+
+let jsonData = JSON.parse(text);
+
+const cleanText = (str) => {
+    if (typeof str !== 'string') return str;
+    return str
+        .replace(/latex/gi, '')
+        .replace(/&dots;/g, '...')
+        .replace(/\\dots/g, '...')
+        .replace(/\$([^$]*)\n([^$]*)\$/g, '$$$1 $2$$')
+        .replace(/\$\$([^$]*)\n([^$]*)\$\$/g, '$$$$$1 $2$$$$')
+        .replace(/\$\s+/g, '$')
+        .replace(/\s+\$/g, '$')
+        .trim();
+};
+
+const cleanObject = (obj) => {
+    if (typeof obj === 'string') return cleanText(obj);
+    if (Array.isArray(obj)) return obj.map(cleanObject);
+    if (typeof obj === 'object' && obj !== null) {
+        const cleaned = {};
+        for (let key in obj) {
+            cleaned[key] = cleanObject(obj[key]);
+        }
+        return cleaned;
+    }
+    return obj;
+};
+
+return cleanObject(jsonData);
+        } catch (e) {
+    console.error("❌ Gemini JSON Exception:", e);
+    return null;
+}
+    },
+
+addMessage: (sender, text) => {
+    const div = document.createElement('div');
+    div.className = `message ${sender}`;
+    let content = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>').replace(/\n/g, '<br>');
+    div.innerHTML = `<div class="bubble">${content}</div>`;
+    App.ui.chatFeed.appendChild(div);
+
+    if (window.renderMathInElement) {
+        renderMathInElement(div, {
+            delimiters: [{ left: '$$', right: '$$', display: true }, { left: '$', right: '$', display: false }]
+        });
+    }
+
+    App.ui.chatFeed.scrollTop = App.ui.chatFeed.scrollHeight;
+    return div;
+},
+
+    showOptions: (options) => {
+        const div = document.createElement('div');
+        div.className = 'chat-options';
+        options.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.textContent = opt;
+            btn.onclick = () => {
+                div.remove();
+                App.ui.input.value = opt;
+                App.handleInput();
+            };
+            div.appendChild(btn);
+        });
+        App.ui.chatFeed.appendChild(div);
+        App.ui.chatFeed.scrollTop = App.ui.chatFeed.scrollHeight;
+    },
+
+        updateProgress: (pct) => {
+            App.ui.progressBar.style.width = `${pct}%`;
+        },
+
+            showBackgroundLoading: () => {
+                const indicator = document.createElement('div');
+                indicator.id = 'bg-loading';
+                indicator.innerHTML = `
+            <div style="display: flex; align-items: center; gap: 10px; padding: 12px 20px; background: rgba(102, 126, 234, 0.1); border: 1px solid rgba(102, 126, 234, 0.3); border-radius: 12px; font-size: 0.9rem;">
+                <div class="spinner"></div>
+                <span>Generating more content in background...</span>
+            </div>`;
+                indicator.style.cssText = 'position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 100; animation: fadeIn 0.3s;';
+                App.ui.stage.appendChild(indicator);
+            },
+
+                hideBackgroundLoading: () => {
+                    const indicator = document.getElementById('bg-loading');
+                    if (indicator) {
+                        indicator.style.animation = 'fadeOut 0.3s';
+                        setTimeout(() => indicator.remove(), 300);
+                    }
+                }
+};
+
+document.addEventListener('DOMContentLoaded', App.init);

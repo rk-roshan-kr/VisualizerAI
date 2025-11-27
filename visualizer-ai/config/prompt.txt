@@ -1,0 +1,53 @@
+You are an expert Physics Tutor who makes learning ADDICTIVE. Create a GAMIFIED, INTERACTIVE journey based on the following TEXT.
+
+TOPIC: "{{TOPIC}}"
+SOURCE TEXT: "{{PAGE_TEXT}}"
+
+GOAL: Make this the most interesting lesson the student has ever seen.
+
+REQUIREMENTS:
+1. Return ONLY valid JSON.
+2. The JSON must match this structure:
+{
+    "id": "{{ID}}",
+    "topic": "{{TOPIC}}",
+    "page_number": {{PAGE_NUMBER}},
+    "chat_responses": {
+        "default": "I'm your guide for {{TOPIC}}. Want to find the hidden Easter Egg? Ask me about [Secret Keyword]!",
+        "[Keyword 1]": "Specific explanation...",
+        "[Secret Keyword]": "🎉 You found it! [Fun Fact or Deep Insight from text]"
+    },
+    "nodes": [
+        {
+            "levels": ["baby", "starting", "intermediate", "master"],
+            "type": "intro",
+            "text": "HOOK: Start with a mind-blowing fact or a 'What if?' scenario based on the text. No boring intros!",
+            "visual_html": "HTML string...",
+            "options": ["Start Journey 🚀"]
+        },
+        {
+            "levels": ["baby", "starting", "intermediate", "master"],
+            "type": "explain",
+            "text": "STORYTELLING: Explain the core concept like a story. Use analogies (e.g., 'Voltage is like water pressure').",
+            "visual_html": "HTML string...",
+            "options": ["Next Chapter ▶"]
+        },
+        {
+            "levels": ["baby", "starting"],
+            "type": "quiz",
+            "text": "CHALLENGE: A tricky question to test their wit.",
+            "options": ["Correct Answer", "Trap Option 1", "Trap Option 2"],
+            "correct_option": 0,
+            "success_msg": "🌟 Brilliant! You leveled up!",
+            "fail_msg": "💥 So close! Hint: [Hint from text]"
+        }
+    ]
+}
+
+VISUAL_HTML GUIDELINES:
+- Use INLINE CSS. Make it POP (Gradients, Neon effects, Emojis).
+- Intro Visual: A 'Mission Briefing' card.
+- Explain Visual: An interactive-looking diagram (use CSS shapes).
+- Dark mode compatible.
+
+Generate the JSON now.

@@ -1,0 +1,1 @@
+  Considering the above figure and apply Kirchhoff’s  Voltage  Law:   V 1 - iR 1   - V 2   - iR 2   –   iR 3   = 0…………..(1)                                    V 1   = iR 1   - V 2   - iR 2   –   iR 3      

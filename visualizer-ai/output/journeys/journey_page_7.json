@@ -1,0 +1,57 @@
+{
+  "page_number": 7,
+  "nodes": [
+    {
+      "node_id": "p7-n1",
+      "title": "Understanding Kirchhoff's Current Law (KCL)",
+      "concept_summary": "Kirchhoff’s Current Law states that the sum of all incoming currents to a node equals the sum of outgoing currents from that node. This is represented mathematically as Σ I = 0.",
+      "analogy": "Imagine a busy intersection where cars enter and leave. If you count the number of cars entering (positive) and leaving (negative), they should balance out, ensuring no cars build up or disappear mysteriously.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "Apply KCL to this simple circuit: i1 + i2 – i3 – i4 = 0. What does the equation tell you about the currents at the node?",
+        "expected_answer": "The sum of incoming currents (i1 and i2) equals the sum of outgoing currents (i3 and i4).",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p7-n2",
+      "title": "Node Current Equations in Practice",
+      "concept_summary": "By applying KCL, we can set up equations to determine the current flowing through each branch of a network.",
+      "analogy": "Think of a water pipe system where water flows into and out of junctions. If you know how much water is entering, you can figure out how it splits or combines at different points in the system.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Consider this network: i1 + i2 - i3 = 0. Predict the value of current i3 if i1 = 5A and i2 = 3A.",
+        "expected_answer": "i3 = 8A (since 5A + 3A = 8A)",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p7-n3",
+      "title": "Applying KCL in Real Circuits",
+      "concept_summary": "When applying Kirchhoff’s Current Law, incoming currents are taken as positive and outgoing currents as negative.",
+      "analogy": "In a city, traffic flow into an intersection is recorded positively, while cars leaving the same point are recorded negatively. This helps keep track of overall traffic movement without confusion.",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare and contrast these two current equations: i1 + i2 - i3 = 0 vs. i4 + i5 - i6 - i7 = 0. What do they have in common?",
+        "expected_answer": "Both follow KCL, summing incoming currents (positive) with outgoing currents (negative).",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which of the following represents a correct application of Kirchhoff’s Current Law?",
+    "options": [
+      "i1 - i2 + i3 = 0",
+      "i4 - i5 + i6 - i7 = 0",
+      "i8 + i9 - i10 - i11 = 0"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct option is 'i8 + i9 - i10 - i11 = 0' because it correctly represents the sum of incoming currents (positive) and outgoing currents (negative)."
+  }
+}

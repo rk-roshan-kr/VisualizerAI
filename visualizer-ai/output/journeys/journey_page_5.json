@@ -1,0 +1,58 @@
+{
+  "page_number": 5,
+  "nodes": [
+    {
+      "node_id": "p5-n1",
+      "title": "Ideal Voltage Source",
+      "concept_summary": "An ideal voltage source maintains a constant voltage regardless of the current drawn, while practical ones have some internal resistance.",
+      "analogy": "Think of an ideal voltage source as a perfect water fountain: it always provides the same pressure (voltage) no matter how many pipes (loads) you connect to it. A practical voltage source is more like a real hose: the pressure drops when you attach too many sprinklers (loads).",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "Which of the following best describes an ideal voltage source?",
+        "expected_answer": "A device that maintains constant voltage regardless of the current drawn.",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p5-n2",
+      "title": "Practical Voltage Source",
+      "concept_summary": "A practical voltage source has internal resistance, which causes a drop in terminal voltage when current flows.",
+      "analogy": "Imagine a battery as a practical voltage source. As you use more power from it (draw more current), the output voltage drops like how a water tap's flow rate decreases if the pipe is partially blocked.",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare and contrast ideal and practical voltage sources in terms of their internal characteristics and behavior under load.",
+        "expected_answer": "Ideal: No internal resistance, constant voltage. Practical: Has internal resistance, terminal voltage drops with current drawn.",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p5-n3",
+      "title": "Ohm's Law",
+      "concept_summary": "Ohm’s law states that the current through a conductor is directly proportional to the voltage across it, provided physical conditions such as temperature remain constant.",
+      "analogy": "This can be likened to water flowing through a pipe: if you increase the pressure (voltage), more water will flow (current) assuming no changes in the pipe’s size or friction (resistance).",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "Complete the Ohm's Law formula: V = _ × I.",
+        "expected_answer": "R",
+        "clarification": "Where R is resistance, and V is voltage."
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which of the following best explains why practical voltage sources have a lower terminal voltage under load compared to their ideal counterparts?",
+    "options": [
+      "Internal resistance leads to voltage drop.",
+      "Ideal sources don't have internal resistance.",
+      "Practical sources provide less current.",
+      "The formula V = I × R doesn’t apply."
+    ],
+    "correct_option_index": 0,
+    "explanation": "This is because practical voltage sources, having some internal resistance (like a hose with water pressure), experience a drop in terminal voltage when current flows through them."
+  }
+}

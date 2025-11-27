@@ -1,0 +1,57 @@
+{
+  "page_number": 14,
+  "nodes": [
+    {
+      "node_id": "p14-n1",
+      "title": "Understanding Series RLC Circuit Basics",
+      "concept_summary": "In a series RLC circuit, all components (resistor, inductor, and capacitor) are connected end-to-end. The same current flows through each component.",
+      "analogy": "Imagine water flowing through a pipe with a valve, a coil, and a balloon. The flow rate is the same everywhere in the pipe.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "If you increase the resistance (R), what happens to the current (I) in the circuit?",
+        "expected_answer": "Decreases",
+        "clarification": "Increase R, decrease I"
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p14-n2",
+      "title": "Voltage Across Components in Series RLC Circuit",
+      "concept_summary": "The voltage across each component is determined by its impedance, which depends on the frequency (ω) of the AC supply.",
+      "analogy": "Think of a road where traffic lights control the flow. Each light (component) has its own schedule and affects the overall traffic pattern (voltage).",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "The voltage across the resistor is given by ___. The voltage across the inductor is given by ___.",
+        "expected_answer": "V_R = I R, V_L = ω L I",
+        "clarification": "Impedance and phase shift play roles"
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p14-n3",
+      "title": "Power Factor in Series RLC Circuit",
+      "concept_summary": "The power factor is the cosine of the phase angle between the voltage and current. It indicates how much of the circuit's power is actually doing useful work.",
+      "analogy": "Think of a phone charging cable. If it’s not fully charged, some energy is lost as heat (lower power factor).",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare the power factor when the circuit has only R to when it includes L and C.",
+        "expected_answer": "Purely resistive: 1; With inductor and capacitor: less than 1",
+        "clarification": "In phase for resistor, lagging for inductor, leading for capacitor"
+      },
+      "difficulty": "hard",
+      "time_minutes": 3
+    }
+  ],
+  "checkpoint": {
+    "question": "What is the primary effect of adding an inductor (L) and a capacitor (C) to a series circuit with just a resistor (R)?",
+    "options": [
+      "Increases resistance",
+      "Changes the phase relationship between voltage and current",
+      "Decreases total impedance"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Adding L and C changes how the circuit behaves at different frequencies, affecting the phase angle."
+  }
+}

@@ -1,0 +1,1 @@
+  Concept of Power Factor   The  power factor (pf)   is the  cosine of the phase angle ( φ)   between voltage and current.   Power Factor = cos ⁡ 휙 = 푃 푆     •   If  φ = 0°:   Power factor = 1 (purely resistive load → all power is active).   •   If  φ > 0°:   Power factor <  1 (inductive or capacitive load → some power is reactive).  

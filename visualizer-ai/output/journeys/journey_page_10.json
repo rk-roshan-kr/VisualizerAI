@@ -1,0 +1,58 @@
+{
+  "page_number": 10,
+  "nodes": [
+    {
+      "node_id": "p10-n1",
+      "title": "Understanding Kirchhoff's Law",
+      "concept_summary": "Kirchhoff’s Law is a fundamental principle in electrical circuits, helping us analyze and compute various circuit parameters.",
+      "analogy": "Imagine a busy city street with many intersections. Cars (current) enter and leave different sections of the road. Just like how Kirchhoff's Law ensures that the number of cars entering an intersection equals the number leaving it, this law helps balance currents in circuits.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "If a current of 2A enters a junction and splits into two branches with one branch having 1.5A, how much current will flow through the second branch?",
+        "expected_answer": "0.5A",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p10-n2",
+      "title": "Kirchhoff's Voltage Law (KVL)",
+      "concept_summary": "KVL states that the sum of voltages around any closed loop in a circuit is zero. This helps calculate unknown voltages.",
+      "analogy": "Consider a river flowing through hills and valleys. The total change in elevation from start to end must be zero because the water can’t rise or fall without energy input. Similarly, KVL ensures that the total voltage drop across all components in a loop equals the voltage source.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "In a simple circuit with two resistors and a 10V battery, if one resistor drops 6V, predict how much voltage will be dropped by the other resistor.",
+        "expected_answer": "4V",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p10-n3",
+      "title": "Kirchhoff's Current Law (KCL) and Complex Circuits",
+      "concept_summary": "KCL states that the total current entering a junction must equal the total current leaving it. This simplifies analysis of complex circuits.",
+      "analogy": "Think of people entering and exiting a room through multiple doors. The number of people coming in should match those going out, similar to how KCL balances currents at junctions in circuits.",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare the flow of water in pipes (current) with the flow of cars on a road network (current). How does KCL apply in both scenarios?",
+        "expected_answer": "In both, the amount of 'flow' entering should equal the amount leaving.",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "If a Wheatstone bridge is balanced, what can you say about the resistances in its arms?",
+    "options": [
+      "All resistances are equal",
+      "The ratio of opposite arm resistances is the same",
+      "No relationship exists",
+      "One arm resistance is zero"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In a balanced Wheatstone bridge, the voltage drop across the middle two resistors is zero, indicating that the product of the resistances in one pair equals the product in the other."
+  }
+}

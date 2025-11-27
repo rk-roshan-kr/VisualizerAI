@@ -1,0 +1,58 @@
+{
+  "page_number": 3,
+  "nodes": [
+    {
+      "node_id": "p3-n1",
+      "title": "Understanding AC and DC Supply Differences",
+      "concept_summary": "AC (Alternating Current) and DC (Direct Current) are two different types of electrical supplies. They differ in their properties, applications, and effects on electronic devices.",
+      "analogy": "Think of AC as a river that flows back and forth while DC is like a steady stream running in one direction.",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare the flow characteristics between AC and DC supply. What are two key differences?",
+        "expected_answer": "AC changes direction, while DC maintains a single direction.",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p3-n2",
+      "title": "Key Electrical Elements: Resistance and Inductance",
+      "concept_summary": "Resistance opposes the flow of current, while inductance resists changes in current. Both are crucial for understanding circuit behavior.",
+      "analogy": "Resistance is like a narrow road that slows down traffic, whereas inductance acts like a traffic light that controls the speed and direction of cars based on past conditions.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Predict what would happen if there were no resistance or inductance in an electrical circuit. What are the consequences for current flow?",
+        "expected_answer": "Without resistance, current could flow uncontrollably; without inductance, sudden changes in current might lead to instability.",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p3-n3",
+      "title": "Understanding Capacitance and Its Role",
+      "concept_summary": "Capacitance stores energy in the form of an electric field, making it essential for maintaining voltage levels across a circuit.",
+      "analogy": "Capacitance is like a water tank that fills up when there's excess pressure and releases water to maintain steady flow rates.",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "Complete the sentence: 'A capacitor stores energy in the form of _______.'",
+        "expected_answer": "an electric field",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which type of supply is typically used for household appliances like refrigerators and lights, and which one is used in gadgets like cell phones?",
+    "options": [
+      "AC",
+      "DC",
+      "Both AC and DC",
+      "Neither AC nor DC"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Household appliances use AC due to its wider availability and efficiency in distribution networks. Gadgets often use DC, as it is easier to convert from AC through rectifiers."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "journey": "node scripts/page_to_journey.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^2.4.5",
+    "pdf2json": "^4.0.0",
+    "pdfjs-dist": "^5.4.394"
+  }
+}

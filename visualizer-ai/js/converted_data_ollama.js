@@ -1,0 +1,112 @@
+window.CONVERTED_DATA = {
+  "chapter_1__unit_3__pdf": {
+    "id": "chapter_1__unit_3__pdf",
+    "topic": "CHAPTER-1 (UNIT-3)",
+    "chat_responses": {
+      "default": "I'm your guide for CHAPTER-1 (UNIT-3). Want to find the hidden Easter Egg? Ask me about [Secret Keyword]!",
+      "[Keyword 1]": "Specific explanation...",
+      "[Secret Keyword]": "🎉 You found it! In an open circuit, the resistance is infinite because R=V/0. Isn't that mind-blowing?"
+    },
+    "steps": [
+      {
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "type": "intro",
+        "text": "HOOK: Imagine you're on a thrilling adventure through the world of circuits! What if your favorite toy suddenly stopped working because of an open circuit? Let's explore how to fix it and understand what makes circuits tick!",
+        "visual_html": "<div style='background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white; padding: 20px; border-radius: 10px; text-align: center;'>\n    <h1>Mission Briefing</h1>\n    <p>Embark on a journey to uncover the mysteries of electric circuits!</p>\n    <button style='background-color: #ff9e64; color: white; border: none; padding: 10px 20px; margin-top: 20px; cursor: pointer;'>Start Journey 🚀</button>\n</div>",
+        "options": [
+          "Start Journey 🚀"
+        ]
+      },
+      {
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "type": "explain",
+        "text": "STORYTELLING: Imagine a water park where the water flows through different paths. Voltage is like the pressure that pushes the water, and current is like the flow of water. In an electric circuit, components are like water slides or obstacles that control how much water (current) can pass through.\n\nIn a closed circuit, everything works smoothly, just like when you're having fun at the water park with all your friends. But what happens if one of the water slides breaks? That's an open circuit! The current stops flowing because there’s no path for it to follow.",
+        "visual_html": "<div style='background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white; padding: 20px; border-radius: 10px; text-align: center;'>\n    <h1>Interactive Circuit Diagram</h1>\n    <svg width=\"300\" height=\"300\" xmlns=\"http://www.w3.org/2000/svg\">\n        <!-- Water Park Path -->\n        <path d=\"M 50,150 L 250,150\" stroke=\"#ff9e64\" stroke-width=\"8\" fill=\"none\" />\n        <!-- Obstacle (Open Circuit) -->\n        <rect x=\"150\" y=\"130\" width=\"100\" height=\"40\" fill=\"#feb47b\" stroke=\"#ff9e64\" stroke-width=\"2\" />\n    </svg>\n</div>",
+        "options": [
+          "Next Chapter ▶"
+        ]
+      },
+      {
+        "levels": [
+          "baby",
+          "starting"
+        ],
+        "type": "quiz",
+        "text": "CHALLENGE: What happens to the resistance in an open circuit?\n\n- A) It becomes zero.\n- B) It becomes infinite.\n- C) It remains constant.",
+        "options": [
+          "B) It becomes infinite.",
+          "Trap Option 1: It becomes zero.",
+          "Trap Option 2: It remains constant."
+        ],
+        "correct_option": 0,
+        "success_msg": "🌟 Brilliant! You leveled up!",
+        "fail_msg": "💥 So close! Hint: Think about the formula R=V/I. What happens when I is zero?"
+      }
+    ]
+  },
+  "lecture_topic_1_1_1": {
+    "id": "lecture_topic_1_1_1",
+    "topic": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.1",
+    "chat_responses": {
+      "default": "I'm your guide for CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.1. Want to find the hidden Easter Egg? Ask me about [Secret Keyword]!",
+      "[Keyword 1]": "Specific explanation...",
+      "[Secret Keyword]": "🎉 You found it! Did you know that the conductivity of an intrinsic semiconductor is zero at ambient temperature, but extrinsic semiconductors can have their conductivity significantly increased by doping?"
+    },
+    "steps": [
+      {
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "type": "intro",
+        "text": "HOOK: Imagine a world where your phone could charge itself without needing to be plugged in. Sounds like science fiction, right? But it's not! This journey will take you through the fascinating world of semiconductors and how they power our modern devices. Let’s dive into the heart of these materials that sit between insulators and conductors.",
+        "visual_html": "<div style='background: linear-gradient(to bottom, #ff6b6b, #f8d7da); color: white; padding: 20px; border-radius: 15px; text-align: center; font-size: 1.5em;'>Mission Briefing 🚀<br><span style='font-weight: bold;'>Objective:</span> Explore the properties of semiconductors and their applications in electronics.</div>",
+        "options": [
+          "Start Journey 🚀"
+        ]
+      },
+      {
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "type": "explain",
+        "text": "STORYTELLING: Semiconductors are like the superheroes of materials. They can be both insulators and conductors, depending on their environment. Think of them as a bridge between the two worlds. Silicon (Si) and Germanium (Ge) are like the Avengers of semiconductors, always ready to save the day by conducting electricity under certain conditions.",
+        "visual_html": "<div style='background: #2c3e50; color: white; padding: 20px; border-radius: 15px; text-align: center; font-size: 1.2em;'>💡 Did you know? Silicon and Germanium are the superheroes of semiconductors! <br><span style='font-weight: bold;'>Analogies:</span> Voltage is like water pressure, pushing electrons through a circuit.</div>",
+        "options": [
+          "Next Chapter ▶"
+        ]
+      },
+      {
+        "levels": [
+          "baby",
+          "starting"
+        ],
+        "type": "quiz",
+        "text": "CHALLENGE: Which of the following statements about semiconductors is true? <br><br>1. Intrinsic semiconductors have zero conductivity at ambient temperature.<br>2. Extrinsic semiconductors are always doped with impurities to increase their conductivity.<br>3. Silicon and Germanium are examples of extrinsic semiconductors.",
+        "options": [
+          "Correct Answer",
+          "Trap Option 1: Extrinsic semiconductors can be either lightly or moderately doped.",
+          "Trap Option 2: Intrinsic semiconductors have zero conductivity at ambient temperature."
+        ],
+        "correct_option": 0,
+        "success_msg": "🌟 Brilliant! You leveled up!",
+        "fail_msg": "💥 So close! Hint: [Hint from text]"
+      }
+    ]
+  }
+};

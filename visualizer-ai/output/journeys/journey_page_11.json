@@ -1,0 +1,58 @@
+{
+  "page_number": 11,
+  "nodes": [
+    {
+      "node_id": "p11-n1",
+      "title": "Understanding KCL and KVL for AC Circuits",
+      "concept_summary": "Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL) are typically used for DC circuits. For high-frequency AC circuits, these laws need to be reconsidered due to changes in magnetic fields affecting the circuit behavior.",
+      "analogy": "Imagine a busy road intersection where KCL is like counting cars entering and leaving at every moment, while KVL would be measuring the total number of vehicles on each street without considering traffic flow. In high-frequency AC circuits, the traffic patterns (currents) can suddenly change, making traditional counting methods less reliable.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "In which scenario would you apply KCL and KVL for a more accurate analysis of a circuit? DC or AC at high frequencies?",
+        "expected_answer": "DC circuits",
+        "clarification": "KCL and KVL are primarily valid for DC circuits, but may need adjustments in AC high-frequency scenarios."
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p11-n2",
+      "title": "Voltage Division Rule in a Series Circuit",
+      "concept_summary": "The voltage division rule states that the voltage across each resistor in a series circuit is proportional to its resistance. This means if two resistors are connected in series, the total voltage will be split between them based on their respective values.",
+      "analogy": "Think of water flowing through pipes of different diameters. The wider pipe gets less flow (voltage), and the narrower one gets more (higher voltage). In a series circuit, voltage is 'split' according to how much resistance each component has.",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "If R1 = 2 ohms and R2 = 3 ohms in a series circuit, what fraction of the total voltage will be across R2?",
+        "expected_answer": "0.6 or 6/10",
+        "clarification": "The voltage is divided according to the resistance values."
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p11-n3",
+      "title": "Current Division Rule in a Parallel Circuit",
+      "concept_summary": "In a parallel circuit, the current divides among the branches. The voltage across each branch is the same, and the amount of current through each resistor depends on its resistance.",
+      "analogy": "Consider a water network where multiple pipes split from one source. Each pipe gets the same pressure (voltage), but the flow rate (current) will vary based on the size of the pipe (resistance).",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "If R1 = 4 ohms and R2 = 8 ohms are connected in parallel, which resistor will have a higher current flowing through it?",
+        "expected_answer": "R1 with lower resistance has more current.",
+        "clarification": "Current is divided inversely to the resistances."
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Apply voltage division and current division rules to find the current through each resistor in a series circuit with R1 = 3 ohms, R2 = 6 ohms, and a total of 9V across them.",
+    "options": [
+      "I1 = 1.5A, I2 = 3A",
+      "I1 = 2A, I2 = 4A",
+      "I1 = 3A, I2 = 6A",
+      "I1 = 1A, I2 = 2A"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Using the voltage division rule, V1 = (R1/R1+R2)*9V and V2 = (R2/R1+R2)*9V. Using Ohm's law, I1 = V1/3 ohms and I2 = V2/6 ohms."
+  }
+}

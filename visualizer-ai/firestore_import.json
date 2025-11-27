@@ -1,0 +1,2110 @@
+{
+  "chapter_1__unit_3_": {
+    "id": "chapter_1__unit_3_",
+    "topic": "CHAPTER-1 (UNIT-3)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **CHAPTER-1 (UNIT-3)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">CHAPTER-1 (UNIT-3)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of CHAPTER-1 (UNIT-3). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>CHAPTER-1 (UNIT-3)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "CHAPTER-1 (UNIT-3)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with CHAPTER-1 (UNIT-3). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CHAPTER-1 (UNIT-3).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.317Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_1_1___cu_lms__11_27_2025_3_46_35_pm_": {
+    "id": "lecture_topic_1_1_1___cu_lms__11_27_2025_3_46_35_pm_",
+    "topic": "Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.1 ｜ CU-LMS (11_27_2025 3：46：35 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.318Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_1_2___cu_lms__11_27_2025_3_47_19_pm_": {
+    "id": "lecture_topic_1_1_2___cu_lms__11_27_2025_3_47_19_pm_",
+    "topic": "Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.2 ｜ CU-LMS (11_27_2025 3：47：19 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.319Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_1_3___cu_lms__11_27_2025_3_46_40_pm_": {
+    "id": "lecture_topic_1_1_3___cu_lms__11_27_2025_3_46_40_pm_",
+    "topic": "Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.3 ｜ CU-LMS (11_27_2025 3：46：40 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.319Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_1_4___cu_lms__11_27_2025_3_46_40_pm_": {
+    "id": "lecture_topic_1_1_4___cu_lms__11_27_2025_3_46_40_pm_",
+    "topic": "Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.4 ｜ CU-LMS (11_27_2025 3：46：40 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.319Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_1_5___cu_lms__11_27_2025_3_46_40_pm_": {
+    "id": "lecture_topic_1_1_5___cu_lms__11_27_2025_3_46_40_pm_",
+    "topic": "Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.1.5 ｜ CU-LMS (11_27_2025 3：46：40 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.319Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_2_1___cu_lms__11_27_2025_3_46_39_pm_": {
+    "id": "lecture_topic_1_2_1___cu_lms__11_27_2025_3_46_39_pm_",
+    "topic": "Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.2.1 ｜ CU-LMS (11_27_2025 3：46：39 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.320Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_2_2___cu_lms__11_27_2025_3_46_39_pm_": {
+    "id": "lecture_topic_1_2_2___cu_lms__11_27_2025_3_46_39_pm_",
+    "topic": "Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.2.2 ｜ CU-LMS (11_27_2025 3：46：39 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.320Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_2_3___cu_lms__11_27_2025_3_46_40_pm_": {
+    "id": "lecture_topic_1_2_3___cu_lms__11_27_2025_3_46_40_pm_",
+    "topic": "Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.2.3 ｜ CU-LMS (11_27_2025 3：46：40 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.320Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_1_2_4___cu_lms__11_27_2025_3_47_15_pm_": {
+    "id": "lecture_topic_1_2_4___cu_lms__11_27_2025_3_47_15_pm_",
+    "topic": "Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 1.2.4 ｜ CU-LMS (11_27_2025 3：47：15 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.321Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_1_1___cu_lms__11_27_2025_3_46_39_pm_": {
+    "id": "lecture_topic_2_1_1___cu_lms__11_27_2025_3_46_39_pm_",
+    "topic": "Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.1.1 ｜ CU-LMS (11_27_2025 3：46：39 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.321Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_1_2___cu_lms__11_27_2025_3_46_41_pm_": {
+    "id": "lecture_topic_2_1_2___cu_lms__11_27_2025_3_46_41_pm_",
+    "topic": "Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.1.2 ｜ CU-LMS (11_27_2025 3：46：41 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.321Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_1_3___cu_lms__11_27_2025_3_47_17_pm_": {
+    "id": "lecture_topic_2_1_3___cu_lms__11_27_2025_3_47_17_pm_",
+    "topic": "Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.1.3 ｜ CU-LMS (11_27_2025 3：47：17 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.321Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_1_4___cu_lms__11_27_2025_3_46_39_pm_": {
+    "id": "lecture_topic_2_1_4___cu_lms__11_27_2025_3_46_39_pm_",
+    "topic": "Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.1.4 ｜ CU-LMS (11_27_2025 3：46：39 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.321Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_1_5___cu_lms__11_27_2025_3_47_05_pm_": {
+    "id": "lecture_topic_2_1_5___cu_lms__11_27_2025_3_47_05_pm_",
+    "topic": "Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.1.5 ｜ CU-LMS (11_27_2025 3：47：05 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.322Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_1_6___cu_lms__11_27_2025_3_46_39_pm_": {
+    "id": "lecture_topic_2_1_6___cu_lms__11_27_2025_3_46_39_pm_",
+    "topic": "Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.1.6 ｜ CU-LMS (11_27_2025 3：46：39 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.322Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_2_1___cu_lms__11_27_2025_3_47_00_pm_": {
+    "id": "lecture_topic_2_2_1___cu_lms__11_27_2025_3_47_00_pm_",
+    "topic": "Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.2.1 ｜ CU-LMS (11_27_2025 3：47：00 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.322Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_2_2___cu_lms__11_27_2025_3_47_15_pm_": {
+    "id": "lecture_topic_2_2_2___cu_lms__11_27_2025_3_47_15_pm_",
+    "topic": "Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.2.2 ｜ CU-LMS (11_27_2025 3：47：15 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.322Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_2_3___cu_lms__11_27_2025_3_47_14_pm_": {
+    "id": "lecture_topic_2_2_3___cu_lms__11_27_2025_3_47_14_pm_",
+    "topic": "Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.2.3 ｜ CU-LMS (11_27_2025 3：47：14 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.322Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_2_2_4___cu_lms__11_27_2025_3_47_18_pm_": {
+    "id": "lecture_topic_2_2_4___cu_lms__11_27_2025_3_47_18_pm_",
+    "topic": "Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 2.2.4 ｜ CU-LMS (11_27_2025 3：47：18 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_1___cu_lms__11_27_2025_3_46_38_pm_": {
+    "id": "lecture_topic_3_1_1___cu_lms__11_27_2025_3_46_38_pm_",
+    "topic": "Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.1 ｜ CU-LMS (11_27_2025 3：46：38 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_10___cu_lms__11_27_2025_3_44_49_pm_": {
+    "id": "lecture_topic_3_1_10___cu_lms__11_27_2025_3_44_49_pm_",
+    "topic": "Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.10 ｜ CU-LMS (11_27_2025 3：44：49 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_2___cu_lms__11_27_2025_3_47_10_pm_": {
+    "id": "lecture_topic_3_1_2___cu_lms__11_27_2025_3_47_10_pm_",
+    "topic": "Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.2 ｜ CU-LMS (11_27_2025 3：47：10 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_3___cu_lms__11_27_2025_3_47_05_pm_": {
+    "id": "lecture_topic_3_1_3___cu_lms__11_27_2025_3_47_05_pm_",
+    "topic": "Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.3 ｜ CU-LMS (11_27_2025 3：47：05 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_4___cu_lms__11_27_2025_3_47_08_pm_": {
+    "id": "lecture_topic_3_1_4___cu_lms__11_27_2025_3_47_08_pm_",
+    "topic": "Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.4 ｜ CU-LMS (11_27_2025 3：47：08 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_5___cu_lms__11_27_2025_3_46_51_pm_": {
+    "id": "lecture_topic_3_1_5___cu_lms__11_27_2025_3_46_51_pm_",
+    "topic": "Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.5 ｜ CU-LMS (11_27_2025 3：46：51 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.323Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_6___cu_lms__11_27_2025_4_00_53_pm_": {
+    "id": "lecture_topic_3_1_6___cu_lms__11_27_2025_4_00_53_pm_",
+    "topic": "Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.6 ｜ CU-LMS (11_27_2025 4：00：53 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_7___cu_lms__11_27_2025_3_47_09_pm_": {
+    "id": "lecture_topic_3_1_7___cu_lms__11_27_2025_3_47_09_pm_",
+    "topic": "Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.7 ｜ CU-LMS (11_27_2025 3：47：09 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_8___cu_lms__11_27_2025_3_46_38_pm_": {
+    "id": "lecture_topic_3_1_8___cu_lms__11_27_2025_3_46_38_pm_",
+    "topic": "Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.8 ｜ CU-LMS (11_27_2025 3：46：38 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "lecture_topic_3_1_9___cu_lms__11_27_2025_3_46_39_pm_": {
+    "id": "lecture_topic_3_1_9___cu_lms__11_27_2025_3_46_39_pm_",
+    "topic": "Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM)**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM)</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM). The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM)</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM)",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM). Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "CONT_25SPH-143 ： SEMICONDUCTOR PHYSICS AND APPLICATIONS： Lecture Topic 3.1.9 ｜ CU-LMS (11_27_2025 3：46：39 PM).pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "important_question_and_numericals_with_answer": {
+    "id": "important_question_and_numericals_with_answer",
+    "topic": "important question and numericals with answer",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **important question and numericals with answer**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">important question and numericals with answer</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of important question and numericals with answer. The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>important question and numericals with answer</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "important question and numericals with answer",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with important question and numericals with answer. Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "important question and numericals with answer.pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "numericals_chapter_1": {
+    "id": "numericals_chapter_1",
+    "topic": "NUMERICALS chapter 1",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **NUMERICALS chapter 1**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">NUMERICALS chapter 1</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of NUMERICALS chapter 1. The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>NUMERICALS chapter 1</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "NUMERICALS chapter 1",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with NUMERICALS chapter 1. Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "NUMERICALS chapter 1.pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "power_concept_chapter_1": {
+    "id": "power_concept_chapter_1",
+    "topic": "Power concept chapter 1",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **Power concept chapter 1**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">Power concept chapter 1</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of Power concept chapter 1. The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>Power concept chapter 1</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "Power concept chapter 1",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with Power concept chapter 1. Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "Power concept chapter 1.pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  },
+  "unit_3_final_notes": {
+    "id": "unit_3_final_notes",
+    "topic": "UNIT-3 Final NOTES",
+    "steps": [
+      {
+        "type": "intro",
+        "text": "Welcome to the lesson on **UNIT-3 Final NOTES**. In this session, we will explore the fundamental concepts.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1)); border-radius: 20px; padding: 40px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 10px 30px rgba(0,0,0,0.3);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; filter: drop-shadow(0 0 20px rgba(102, 126, 234, 0.5));\">👋</div>\n            <h1 style=\"margin-bottom: 15px; background: linear-gradient(to right, #fff, #a5b4fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem;\">UNIT-3 Final NOTES</h1>\n            <p style=\"color: #cbd5e1; font-size: 1.2rem; max-width: 600px; line-height: 1.6;\">Welcome to your interactive learning journey. Let's master this topic together.</p>\n            <div style=\"margin-top: 30px; display: flex; gap: 15px;\">\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">📚 Lecture Note</span>\n                <span style=\"padding: 8px 16px; background: rgba(255,255,255,0.1); border-radius: 20px; font-size: 0.9rem;\">⏱️ 10 min read</span>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Let's Start"
+        ]
+      },
+      {
+        "type": "explain",
+        "text": "This is a placeholder for the content of UNIT-3 Final NOTES. The PDF parsing is currently unavailable, but this demonstrates the lesson structure.",
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(34, 197, 94, 0.05), rgba(21, 128, 61, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(34, 197, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px; animation: float 3s ease-in-out infinite;\">💡</div>\n            <h2 style=\"margin-bottom: 15px; color: #4ade80; font-size: 2rem;\">Key Concept</h2>\n            <div style=\"background: rgba(0,0,0,0.3); padding: 20px; border-radius: 12px; border-left: 4px solid #4ade80; text-align: left; max-width: 500px; width: 100%;\">\n                <p style=\"color: #e2e8f0; font-size: 1.1rem; margin: 0;\">This topic covers essential principles of <strong>UNIT-3 Final NOTES</strong>. Imagine this as a building block for understanding complex systems.</p>\n            </div>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ],
+        "options": [
+          "Got it",
+          "Tell me more"
+        ]
+      },
+      {
+        "type": "quiz",
+        "text": "What is the main topic of this lesson?",
+        "options": [
+          "UNIT-3 Final NOTES",
+          "Something else",
+          "Another topic",
+          "Wrong answer"
+        ],
+        "correct_option": 0,
+        "visual_html": "\n        <div class=\"visual-placeholder\" style=\"display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; text-align: center; background: linear-gradient(135deg, rgba(244, 63, 94, 0.05), rgba(159, 18, 57, 0.05)); border-radius: 20px; padding: 40px; border: 1px solid rgba(244, 63, 94, 0.2);\">\n            <div style=\"font-size: 5rem; margin-bottom: 20px;\">🧠</div>\n            <h2 style=\"margin-bottom: 15px; color: #fb7185; font-size: 2rem;\">Knowledge Check</h2>\n            <p style=\"color: #cbd5e1; margin-bottom: 30px;\">Let's see what you've learned so far.</p>\n        </div>",
+        "levels": [
+          "baby",
+          "starting",
+          "intermediate",
+          "master"
+        ]
+      }
+    ],
+    "chat_responses": {
+      "default": "I can help you with UNIT-3 Final NOTES. Ask me about specific terms!"
+    },
+    "metadata": {
+      "source_file": "UNIT-3 Final NOTES.pdf",
+      "page_count": 0,
+      "generated_at": "2025-11-27T17:01:01.324Z",
+      "note": "Placeholder content generated due to PDF parse failure."
+    }
+  }
+}

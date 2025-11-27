@@ -1,0 +1,58 @@
+{
+  "page_number": 9,
+  "nodes": [
+    {
+      "node_id": "p9-n1",
+      "title": "Kirchhoff's Voltage Law Basics",
+      "concept_summary": "Understanding Kirchhoff’s Voltage Law (KVL) in a circuit, which states that the sum of all voltages around any closed loop is zero.",
+      "analogy": "Imagine you’re driving on a circular road. The total change in altitude (voltage) after completing one full circle should be zero; if it increases, some part of your journey must have dropped back down to balance it out.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "If the voltage drop across resistor R1 is 5V and you know V2 is -3V, what can we say about the remaining voltages if all three resistors form a closed loop?",
+        "expected_answer": "- The sum of the voltage drops must equal the total supply voltage.",
+        "clarification": "Use Kirchhoff’s Voltage Law to find relationships between voltages."
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p9-n2",
+      "title": "Applying KVL in Semiconductor Circuits",
+      "concept_summary": "Using Kirchhoff’s Voltage Law to analyze circuits with semiconductor components, specifically resistors R1, R2, and R3.",
+      "analogy": "Think of a water tank system where each resistor represents a valve that can control the flow (current). The equation V1 - iR1 - V2 - iR2 – iR3 = 0 ensures that the total pressure drop across all valves equals the initial pressure difference between tanks.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Predict what happens to the voltage at point B if R3 is removed from the circuit (keeping V1 and V2 constant).",
+        "expected_answer": "- The voltage at point B will increase by the amount of voltage drop across R3.",
+        "clarification": "The removal of a resistor in series increases the remaining voltage drop."
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p9-n3",
+      "title": "Formulating Voltage Equations",
+      "concept_summary": "Deriving and understanding the equation V1 = iR1 - V2 - iR2 – iR3 from Kirchhoff’s Voltage Law, which is crucial for analyzing semiconductor circuits.",
+      "analogy": "This is like calculating your net profit after all expenses. If you start with a certain amount (V1), and spend some on materials (iR1) or labor (iR2), the remaining amount must cover any additional costs (V2) and still leave enough for other needs.",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "Complete the equation: V1 = _ + iR1 - V2 - iR2 – iR3",
+        "expected_answer": "0",
+        "clarification": "The constant term that balances the equation to zero is 0."
+      },
+      "difficulty": "hard",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which of the following best describes Kirchhoff’s Voltage Law in a semiconductor circuit?",
+    "options": [
+      "A) The sum of all current sources equals zero.",
+      "B) The total voltage drop across resistors must equal the supply voltage.",
+      "C) The sum of all currents entering and leaving any junction is zero.",
+      "D) The total voltage change around any closed loop is zero."
+    ],
+    "correct_option_index": 3,
+    "explanation": "The correct answer is D. Kirchhoff’s Voltage Law states that the total voltage change in a closed loop is zero, which is essential for analyzing circuits with semiconductor components."
+  }
+}

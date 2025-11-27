@@ -1,0 +1,1 @@
+Concept of Power :   Power Triangle Diagram   The  power triangle   represents the relationship between  active power (P) ,  reactive  power (Q) , and  apparent power (S)   in an AC circuit.      

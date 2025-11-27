@@ -1,0 +1,58 @@
+{
+  "page_number": 2,
+  "nodes": [
+    {
+      "node_id": "p2-n1",
+      "title": "What is a Closed Circuit?",
+      "concept_summary": "A closed circuit allows electricity to flow continuously from one point to another, forming a complete path.",
+      "analogy": "Imagine a road network. Just like how cars need a continuous path to travel, electrons need a closed circuit to move and perform work.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "If you have a battery and two wires connected end-to-end without any breaks, what will happen?",
+        "expected_answer": "Electricity will flow continuously through the path formed by the wires.",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p2-n2",
+      "title": "Understanding Short Circuits",
+      "concept_summary": "A short circuit occurs when an unintended path of lower resistance is formed, causing a sudden increase in current.",
+      "analogy": "Think of a river that suddenly gets blocked by a low dam. Water (electricity) will find another way to flow quickly through the break, potentially causing damage or flooding (overheating).",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare a short circuit with a normal closed circuit in terms of resistance and current.",
+        "expected_answer": "In a short circuit, the resistance is very low leading to high current. In a normal closed circuit, resistance is higher resulting in lower current.",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p2-n3",
+      "title": "Potential Difference vs Electric Potential",
+      "concept_summary": "Electric potential is the work done per unit charge to bring a charge from infinity to a point, while potential difference measures the work done between two points.",
+      "analogy": "Think of electric potential as the height of a hill where you place a ball. The higher the hill, the more energy (potential) the ball has. Potential difference is like comparing the heights of two hills to see which one has more potential for the ball to roll down and gain speed.",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "Fill in the blanks: Electric potential is defined at a point, whereas ___________ is defined between two points in an electric field.",
+        "expected_answer": "Potential difference",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "What happens to the resistance and current in a short circuit compared to a normal closed circuit?",
+    "options": [
+      "Resistance increases, Current decreases",
+      "Resistance remains constant, Current remains constant",
+      "Resistance decreases significantly, Current increases significantly",
+      "Resistance fluctuates, Current is inconsistent"
+    ],
+    "correct_option_index": 2,
+    "explanation": "In a short circuit, the resistance of the path drops dramatically, causing an increase in current. This is because R=V/I and with V remaining constant but R becoming very small, I becomes very large."
+  }
+}

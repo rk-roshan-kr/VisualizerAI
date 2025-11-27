@@ -1,0 +1,58 @@
+{
+  "page_number": 13,
+  "nodes": [
+    {
+      "node_id": "p13-n1",
+      "title": "Series RC Circuit Basics",
+      "concept_summary": "In a Series RC circuit, the resistor and capacitor are connected in series, meaning the current flowing through both components is the same. The voltages across the resistor (VR) and capacitor (VC) combine to form the total voltage (V).",
+      "analogy": "Imagine water flow through a pipe with a valve and a balloon. The valve restricts the flow (resistor), while the balloon stores energy temporarily when the water pressure changes (capacitor).",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "If the current in the circuit is 2A, what is the voltage across the resistor if its resistance is 10Ω?",
+        "expected_answer": "20V",
+        "clarification": "Use Ohm's law: V = I * R"
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p13-n2",
+      "title": "Phasor Diagram Interpretation",
+      "concept_summary": "A phasor diagram represents the voltage and current in a Series RC circuit as vectors. The phase angle (φ) between these vectors shows how the capacitor delays or advances the voltage compared to the current.",
+      "analogy": "Think of a traffic light system where the red light (current) turns on first, then the green light (voltage across the capacitor) lags behind by an angle φ.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Predict how the phase angle would change if you increase the capacitance of the capacitor in the circuit. Would it be more or less?",
+        "expected_answer": "more",
+        "clarification": "A larger capacitance means a greater delay, increasing the phase angle."
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p13-n3",
+      "title": "Power Factor and Its Importance",
+      "concept_summary": "The power factor in an AC circuit is a measure of how effectively the voltage is converted to useful work. In a Series RC circuit, it can be calculated using the formula cos(φ) = V_R / V.",
+      "analogy": "Think of a phone charging: the faster and more direct the charge (higher power factor), the quicker your battery will get full. A lower power factor means some energy is lost as heat in the resistor.",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "If V = 50V, VR = 40V, calculate the power factor of this circuit.",
+        "expected_answer": "0.8",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which component in a Series RC circuit stores energy temporarily and delays the voltage compared to current?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Transformer"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The capacitor acts as a temporary storage of electrical charge, causing a phase shift in the voltage compared to the current."
+  }
+}

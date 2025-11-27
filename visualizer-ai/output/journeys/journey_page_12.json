@@ -1,0 +1,58 @@
+{
+  "page_number": 12,
+  "nodes": [
+    {
+      "node_id": "p12-n1",
+      "title": "Series RL Circuit Basics",
+      "concept_summary": "In a Series RL Circuit, both the resistor and inductor are connected in series. The current through the resistor (IR) is equal to the current through the inductor (IL), which is also equal to the total circuit current (I).",
+      "analogy": "Think of it like a long line at a water fountain. Everyone moves forward at the same speed, and no one can skip ahead or fall behind.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "If you measure the voltage across the resistor (VR) and the inductor (VL), which statement is correct?",
+        "expected_answer": "VR + VL = V (total circuit voltage)",
+        "clarification": ""
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p12-n2",
+      "title": "Phasor Diagram for Series RL Circuit",
+      "concept_summary": "Using a phasor diagram, the voltage across the resistor (VR) and inductor (VL) can be represented as vectors. The angle between VR and V is determined by the resistance and inductance values.",
+      "analogy": "Imagine two people walking on a straight path but starting at different times. One walks normally while the other walks slower, making them lag behind. In this analogy, the resistor's voltage (VR) is like the person who starts first, and the inductor's voltage (VL) lags because of its inertia.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "If the resistance R increases, how does it affect the phase angle between VR and V?",
+        "expected_answer": "The phase angle decreases, meaning the resistor's voltage leads more in time compared to the total voltage.",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p12-n3",
+      "title": "Power Factor and Series RL Circuit",
+      "concept_summary": "The power factor (cos φ) of a series RL circuit can be calculated using the phase angle between VR and V. It indicates how effectively the circuit utilizes its apparent power.",
+      "analogy": "Consider a light bulb that is less bright than it could be because some energy is wasted as heat in the filament. The power factor is like measuring how much of the electrical current's energy is actually used to do useful work (like lighting) versus being lost.",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare a series RL circuit with a purely resistive load. Which one has a higher power factor?",
+        "expected_answer": "The purely resistive load has a higher power factor because it doesn’t waste energy in the form of reactive components like an inductor.",
+        "clarification": ""
+      },
+      "difficulty": "hard",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which statement best describes the phase relationship between VR and VL in a series RL circuit?",
+    "options": [
+      "VR leads VL",
+      "VL leads VR",
+      "VR = VL",
+      "They are not related"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In a series RL circuit, VL lags behind VR because the inductor resists changes in current. This phase shift is crucial for understanding the power factor and energy efficiency of the circuit."
+  }
+}

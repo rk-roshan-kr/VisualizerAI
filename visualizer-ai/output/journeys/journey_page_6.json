@@ -1,0 +1,58 @@
+{
+  "page_number": 6,
+  "nodes": [
+    {
+      "node_id": "p6-n1",
+      "title": "Ohm's Law Explained",
+      "concept_summary": "Understanding Ohm’s Law and its limitations.",
+      "analogy": "Imagine a water pipe system where the voltage is like the pressure difference, current is the flow rate of water, and resistance acts as a constriction in the pipe. The ratio of pressure to flow (voltage/current) stays constant unless the constriction changes or the material properties alter.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "Which scenario would violate Ohm’s Law? A) A steady water flow through a constant pipe, B) A water flow changing with the size of the pipe opening, C) A constant pressure difference between two points in a pipe system, D) An unchanging water source supplying to multiple pipes.",
+        "expected_answer": "B",
+        "clarification": "Non-linear networks or changes in resistance affect Ohm’s Law."
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p6-n2",
+      "title": "Why We Need Electricity",
+      "concept_summary": "Exploring the benefits and necessity of electricity.",
+      "analogy": "Electricity acts like a versatile utility in our lives, much like how water and gas utilities are essential. Just as we need water to drink, wash, cook, etc., electrical devices like phones, TVs, fridges, and computers make our daily life easier and more productive.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Predict the outcome if all your electrical devices were suddenly turned off. How would it affect your day-to-day activities?",
+        "expected_answer": "Life would become significantly less convenient, with tasks requiring manual labor or alternative methods, leading to a decrease in productivity and efficiency.",
+        "clarification": "Think about essential appliances that make daily chores easier."
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p6-n3",
+      "title": "Kirchhoff’s Laws",
+      "concept_summary": "Understanding Kirchhoff’s Current and Voltage Laws.",
+      "analogy": "Think of a busy intersection where traffic (current) must flow in or out. The number of cars entering and exiting the same junction at any given time must balance, which is akin to KCL. Similarly, the energy (voltage) lost as cars move through different routes must sum up to zero around a loop, much like KVL.",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare and contrast Kirchhoff’s Current Law (KCL) and Voltage Law (KVL). What are the key differences in their applications?",
+        "expected_answer": "KCL is about conservation of charge/current at a node, while KVL is about energy/voltage around a loop. KCL applies to both open and closed circuits, whereas KVL only works in closed circuits.",
+        "clarification": "Focus on the application scenarios for each law."
+      },
+      "difficulty": "hard",
+      "time_minutes": 3
+    }
+  ],
+  "checkpoint": {
+    "question": "Which of the following is a limitation of Ohm’s Law? A) It works in all types of circuits, B) Resistance and other parameters remain constant over time, C) It can predict non-linear behavior, D) It applies to both linear and non-linear networks.",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Ohm’s Law assumes that resistance remains constant, which is not true for all circuits over time or under varying conditions."
+  }
+}

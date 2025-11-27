@@ -1,0 +1,5 @@
+FROM qwen2.5:7b-instruct
+PARAMETER num_ctx 16000
+PARAMETER temperature 0.4
+PARAMETER top_p 0.8
+PARAMETER stop "<|im_end|>"

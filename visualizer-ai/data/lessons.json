@@ -1,0 +1,55 @@
+{
+    "1.1.1-1.1.2.pdf": {
+        "topic": "Matrices: The Journey Begins",
+        "steps": [
+            {
+                "type": "intro",
+                "text": "👋 **Welcome to the Journey.** \n\nI have hidden the boring textbook. Instead, I will visualize the concepts for you right here on the stage.\n\nLet's start with the structure of a Matrix.",
+                "visual_html": "<h1>Matrices</h1><p>A Matrix is a powerful tool to organize data.</p><div class='matrix-display'><div class='matrix-row'><span>1</span><span>2</span><span>3</span></div><div class='matrix-row'><span>4</span><span>5</span><span>6</span></div><div class='matrix-row'><span>7</span><span>8</span><span>9</span></div></div><p>It's a grid of numbers.</p>",
+                "options": [
+                    "I see it"
+                ]
+            },
+            {
+                "type": "explain",
+                "text": "Excellent. Look at the grid. \n\nThe horizontal lines are called **Rows**.",
+                "visual_html": "<h1>Rows</h1><div class='matrix-display'><div class='matrix-row highlight'><span>1</span><span>2</span><span>3</span></div><div class='matrix-row'><span>4</span><span>5</span><span>6</span></div><div class='matrix-row'><span>7</span><span>8</span><span>9</span></div></div><p>This is Row 1.</p>",
+                "options": [
+                    "Okay, next"
+                ]
+            },
+            {
+                "type": "explain",
+                "text": "And the vertical lines are **Columns**.",
+                "visual_html": "<h1>Columns</h1><div class='matrix-display'><div class='matrix-row'><span><span class='highlight'>1</span></span><span>2</span><span>3</span></div><div class='matrix-row'><span><span class='highlight'>4</span></span><span>5</span><span>6</span></div><div class='matrix-row'><span><span class='highlight'>7</span></span><span>8</span><span>9</span></div></div><p>This is Column 1.</p>",
+                "options": [
+                    "Got it"
+                ]
+            },
+            {
+                "type": "question",
+                "text": "Now, a quick check. \n\nIf I have 2 Rows and 3 Columns, what is the **Order** of the matrix?",
+                "visual_html": "<h1>Order of a Matrix</h1><p>Order = Rows × Columns</p><div class='matrix-display'><div class='matrix-row'><span>A</span><span>B</span><span>C</span></div><div class='matrix-row'><span>D</span><span>E</span><span>F</span></div></div>",
+                "expected_answer": [
+                    "2x3",
+                    "2 by 3"
+                ],
+                "success_msg": "✅ Correct! 2 Rows, 3 Columns.",
+                "fail_msg": "❌ Count the rows (horizontal) and columns (vertical). It's 2x3."
+            },
+            {
+                "type": "explain",
+                "text": "Now, let's look at **Elements**. Each number has an address: $a_{ij}$.\n\n$i$ is the Row, $j$ is the Column.",
+                "visual_html": "<h1>Elements</h1><div class='matrix-display'><div class='matrix-row'><span>a<sub>11</sub></span><span>a<sub>12</sub></span><span>a<sub>13</sub></span></div><div class='matrix-row'><span>a<sub>21</sub></span><span><span class='highlight'>a<sub>22</sub></span></span><span>a<sub>23</sub></span></div></div><p>Where is a<sub>22</sub>?</p>",
+                "options": [
+                    "Center",
+                    "Top Left",
+                    "Bottom Right"
+                ],
+                "correct_option": 0,
+                "success_msg": "✅ Yes! Row 2, Column 2 is the center.",
+                "fail_msg": "❌ Row 2, Column 2."
+            }
+        ]
+    }
+}

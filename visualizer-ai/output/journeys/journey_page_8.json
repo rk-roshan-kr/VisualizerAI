@@ -1,0 +1,58 @@
+{
+  "page_number": 8,
+  "nodes": [
+    {
+      "node_id": "p8-n1",
+      "title": "Understanding Kirchhoff’s Voltage Law (KVL)",
+      "concept_summary": "Kirchhoff's Voltage Law states that the algebraic sum of all voltages in a closed circuit is zero. Positive voltage rises and negative voltage drops are key to applying KVL.",
+      "analogy": "Imagine driving on a circular road where you gain altitude at some points (positive voltage) and descend at others (negative voltage). At the end, if you start and finish at the same point, your overall change in altitude is zero, just like the sum of voltages in a closed circuit being zero.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Consider a simple circuit with three components: a 3V battery (positive voltage), a resistor (neglecting its effect on voltage), and another 2V battery (negative voltage). Predict the total voltage in this closed loop.",
+        "expected_answer": "-1V",
+        "clarification": "Remember to treat positive voltage as gains and negative voltage as losses."
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p8-n2",
+      "title": "Applying KVL in Circuits",
+      "concept_summary": "While applying KVL, you must account for the direction of current flow. Voltage drops are taken as negative and voltage rises as positive.",
+      "analogy": "Picture a water system with water flowing through pipes. If water flows upward (against gravity), it requires energy, which is like a positive voltage drop in our circuit. Conversely, if water flows downward (with gravity), it loses potential energy, akin to a negative voltage rise.",
+      "interactive_element": {
+        "type": "fill-in",
+        "prompt": "In the following circuit diagram, identify and label where you would apply -V for a voltage drop and +V for a voltage rise. (Assume current flows from left to right).",
+        "expected_answer": "-V at resistor A; +V at battery B",
+        "clarification": ""
+      },
+      "difficulty": "medium",
+      "time_minutes": 3
+    },
+    {
+      "node_id": "p8-n3",
+      "title": "Practice with KVL Problems",
+      "concept_summary": "Apply your understanding of KVL by solving a problem where you must calculate the total voltage in a complex circuit.",
+      "analogy": "Solving this problem is like planning a trip through multiple cities. Each city (component) has its own rules about gaining or losing altitude, and you need to ensure that when you circle back, your overall gain/loss matches Kirchhoff's Voltage Law.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "In the given complex circuit with multiple batteries and resistors, calculate the total voltage around the loop. (Assume a simple 2V battery in series with a -1V battery, and then another 3V source connected to it).",
+        "expected_answer": "0V",
+        "clarification": ""
+      },
+      "difficulty": "hard",
+      "time_minutes": 5
+    }
+  ],
+  "checkpoint": {
+    "question": "In a closed circuit with two batteries, one providing +2V and the other -1.5V, calculate the net voltage around the loop.",
+    "options": [
+      "0.5V",
+      "3.5V",
+      "-0.5V",
+      "2.5V"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct answer is 0.5V because +2V - 1.5V = 0.5V, demonstrating the application of KVL."
+  }
+}

@@ -1,0 +1,1 @@
+휑 = tan ⁡ − 1 ( 푋 퐿 푅 ) = tan ⁡ − 1 ( 75 . 398 10 ) = 82 . 45 ∘   Q17.  A coil having an inductance of 100 mH and resistance 20  Ω( Ohms) is  connected in series with a 30  μ F capacitor across a 300 V ac supply. Calculate  (a) total current (b) voltage across resistance (c) voltage across inductor ?        

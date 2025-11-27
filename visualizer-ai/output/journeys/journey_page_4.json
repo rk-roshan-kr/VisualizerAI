@@ -1,0 +1,58 @@
+{
+  "page_number": 4,
+  "nodes": [
+    {
+      "node_id": "p4-n1",
+      "title": "Understanding Electric Potential Difference",
+      "concept_summary": "Electric potential difference is defined as the work done to move a unit charge from one point to another in an electric field, with units being volts.",
+      "analogy": "Imagine you are hiking on a mountain trail. The height of the mountain represents the electric potential difference; the steeper the climb, the greater the potential difference just like a taller hill means more work needed to reach the top. At the base and peak, you can measure the 'potential' energy.",
+      "interactive_element": {
+        "type": "question",
+        "prompt": "If it takes 10 joules of work to move a charge from point A to point B in an electric field, what is the potential difference between these two points?",
+        "expected_answer": "10 volts",
+        "clarification": "Potential difference (V) = Work done per unit charge (J/C)"
+      },
+      "difficulty": "easy",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p4-n2",
+      "title": "Active vs Passive Elements",
+      "concept_summary": "Active elements have their own energy source and can generate current, while passive elements rely on an external power supply.",
+      "analogy": "Think of a water pump in your garden. It acts like an active element because it continuously moves the water (generating its own 'flow'). A hose, however, is a passive element that requires you to pour water into one end and allows it to flow out the other; it relies on an external source.",
+      "interactive_element": {
+        "type": "predict",
+        "prompt": "Given two elements: a battery (A) and a resistor (B). Which would be active, and which passive? Why?",
+        "expected_answer": "Battery A is active because it can generate its own current. Resistor B is passive as it requires an external voltage to function.",
+        "clarification": "Active elements like batteries can initiate the flow of charge internally; Passive elements depend on external sources."
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    },
+    {
+      "node_id": "p4-n3",
+      "title": "Linear vs Non-Linear Elements",
+      "concept_summary": "Linear elements have constant characteristics and obey Ohm's law, while non-linear elements do not.",
+      "analogy": "Imagine driving on a straight highway with steady traffic (linear element). The speed of your car is directly proportional to the pressure you apply to the accelerator. Contrast this with navigating through city streets where traffic lights, turns, and variable speeds introduce complexities (non-linear element).",
+      "interactive_element": {
+        "type": "compare",
+        "prompt": "Compare a resistor (linear) with a diode (non-linear) in terms of their behavior when the voltage is increased. How do they differ?",
+        "expected_answer": "A resistor's current increases linearly with an increase in voltage, obeying Ohm’s Law. A diode initially blocks current until its threshold voltage is reached, then allows current to flow without increasing its resistance further.",
+        "clarification": "Linear elements like resistors maintain a constant ratio between voltage and current; non-linear elements such as diodes show different behavior at various voltage levels."
+      },
+      "difficulty": "medium",
+      "time_minutes": 2
+    }
+  ],
+  "checkpoint": {
+    "question": "Which of the following is an active element?",
+    "options": [
+      "Voltage source",
+      "Resistor",
+      "Inductor",
+      "Diode"
+    ],
+    "correct_option_index": 0,
+    "explanation": "A voltage source (option A) acts as its own power generator, making it an active element. The other options are passive elements that require external energy."
+  }
+}
